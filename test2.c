@@ -10,4 +10,4 @@ int main(void)/*dadadadada*/
     printf("%1d %5d %5d %5d\n", a, aplus, b, plusb);
 
     return 0;
-}
+}//dfkhjrejj;
