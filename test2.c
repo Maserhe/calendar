@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void)
+int main(void)/*dadadadada*/
 {
     int a = 1, b = 1;
     int aplup,plusb;
